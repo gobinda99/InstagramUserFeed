@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="application_name">Insta User Feed</string>
+    <string name="empty">Empty</string>
+    <string name="instagram_user_feed">Ins User Feed</string>
+    <string name="token_instagram">instagram</string>
+    <string name="please_connect_internet">Please connet to the internet or try after some time.</string>
+
+</resources>
